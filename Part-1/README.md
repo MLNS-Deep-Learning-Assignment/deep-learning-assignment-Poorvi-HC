@@ -45,7 +45,7 @@ The CNN consists of:
 ## Evaluation and Improvements
 
 - **Evaluation**:
-   - Accuracy computed as predictions within a threshold of 1.0.
+   - Accuracy computed as predictions within a threshold of 0.5.
    - Visualization of predictions for qualitative analysis.
 - **Potential Enhancements**:
    - Add data augmentation.
